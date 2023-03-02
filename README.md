@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CshardZ
-- 👀 I’m interested in ...frontend
-- 🌱 I’m currently learning ... Tkinter
+- 👀 I’m interested in ...NONE
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ... NONE
 - 📫 How to reach me ...NONE
 

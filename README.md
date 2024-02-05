@@ -3,6 +3,15 @@ CshardZ/CshardZ is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+
+    I'm Vivek, a Python guy!🐍🌐
+
+## About Me
+
+- 👨‍💻 I’m currently exploring new technologies and expanding my knowledge in Python.
+- 🌱 I am doing good!
+
 <hr>
 <div>
   <p align="center">
@@ -15,5 +24,33 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CshardZ" alt="Top Langs">
     </a>
   </p>
+</div>
+<hr>
+<br>
+
+## Skills
+
+- **Languages:**
+    - Python
+    - C
+    - HTML/CSS
+- **Related Frameworks:**
+    - Django
+<hr>
+
+## Projects
+
+- Feel free to explore my repositories for more projects!
+<hr>
+
+## Get in Touch
+
+- Instagram: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Twitter: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- Github: You are already there!
+- LinkedIn: [Username]()
+- Email: supream530@gmail.com (yeah its cool name)
+
+
 </div>
 <hr>

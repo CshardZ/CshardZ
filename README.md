@@ -5,8 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-    I'm Vivek, a Python guy!🐍🌐
-
+- I'm Vivek, a Python guy!🐍🌐
 
 - 👨‍💻 I’m currently exploring new technologies and expanding my knowledge in Python.
 - 🌱 I am doing good!
@@ -31,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 
-- Instagram: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Twitter: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- Instagram: [@Twitter](https://twitter.com/YourTwitterHandle)
+- Twitter: [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
 - Github: You are already there!
 - LinkedIn: [Username]()
 - Email: supream530@gmail.com (yeah its cool name)

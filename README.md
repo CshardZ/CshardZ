@@ -7,10 +7,18 @@ You can click the Preview link to take a look at your changes.
 
     I'm Vivek, a Python guy!🐍🌐
 
+<div align="center">
+  <img src="https://wallpapercave.com/wp/wp4412356.gif" alt="Alt Text" width="500" height="300">
+</div>
+<hr>
+<br>
+
+
 ## About Me
 
 - 👨‍💻 I’m currently exploring new technologies and expanding my knowledge in Python.
 - 🌱 I am doing good!
+
 
 <hr>
 <div>
@@ -28,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <br>
 
+
 ## Skills
 
 - **Languages:**
@@ -37,11 +46,15 @@ You can click the Preview link to take a look at your changes.
 - **Related Frameworks:**
     - Django
 <hr>
+<br>
+
 
 ## Projects
 
 - Feel free to explore my repositories for more projects!
 <hr>
+<br>
+
 
 ## Get in Touch
 
@@ -51,6 +64,5 @@ You can click the Preview link to take a look at your changes.
 - LinkedIn: [Username]()
 - Email: supream530@gmail.com (yeah its cool name)
 
-
-</div>
 <hr>
+<br>

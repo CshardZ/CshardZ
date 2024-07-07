@@ -30,11 +30,3 @@
 </div>
 
 <hr>
-
-- Twitter: [@Profile](https://twitter.com/_viveknayak_) <br>
-- Github: You are already there! <br>
-- LinkedIn: [@Profile](https://github.com/CshardZ) <br>
-- Instagram: [@Profile](https://www.instagram.com/_viveknayak_/) <br>
-- Email: supream530@gmail.com
-
-<hr>

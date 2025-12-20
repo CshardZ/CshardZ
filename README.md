@@ -3,5 +3,5 @@
 - 👀 Interested in **Python** and **Web Development**
 - 🌱 Currently learning more **Python**
 - 💞️ Looking to collaborate on **fun projects**
-- 🛠  Working on a **Data Analysis** project
+- 🛠  Working on a **Desktop Application** project
 - 📫 How to reach me: Email - vivekhubstrt@gmail.com

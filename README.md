@@ -12,12 +12,12 @@
   <tr>
     <td colspan="5" align="left">
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;I'm <b>Vivek</b> (<i>@CshardZ</i>)<br>
-      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Interested in <b>Python</b> & <b>Web Development</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Currently learning more <b>Python</b><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Looking to collaborate on <b>fun projects</b><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Working on a <b>Desktop Application project</b><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Contact email: <i>vivekhubstrt@gmail.com</i><br>
+      <h4>&nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;I'm <b>Vivek</b> (<i>@CshardZ</i>)<br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Interested in <b>Python</b> & <b>Web Development</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Currently learning more <b>Python</b><br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Looking to collaborate on <b>fun projects</b><br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Working on a <b>Desktop Application project</b><br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; □ &nbsp;&nbsp;Contact email: <i>vivekhubstrt@gmail.com</i><br><h4>
       <br>
     </td>
   </tr>
@@ -37,7 +37,7 @@
   </tr>
 
   <!-- Row 4: Images (single column spans all 5) -->
-<tr>
+<!-- <tr>
   <td colspan="5" align="center">
     <br>
     <a href="https://github.com/CshardZ/PyCTSS">
@@ -48,7 +48,7 @@
       <br><br>
     </a>
   </td>
-</tr>
+</tr> -->
 </table>
 
 

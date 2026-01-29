@@ -37,7 +37,7 @@
   </tr>
 
   <!-- Row 4: Images (single column spans all 5) -->
-<tr>
+<!-- <tr>
   <td colspan="5" align="center">
     <br>
     <a href="https://github.com/CshardZ/PyCTSS">
@@ -48,7 +48,7 @@
       <br><br>
     </a>
   </td>
-</tr>
+</tr> -->
 </table>
 
 

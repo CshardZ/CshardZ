@@ -2,21 +2,21 @@
   <!-- Row 1: Skill Logos -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ansible"/></td>    
   </tr>
 
   <!-- Row 2: Info -->
   <tr>
-    <td colspan="5" align="left">
+    <td colspan="6" align="left">
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp; ◈ &nbsp;&nbsp;I'm <b>Vivek</b> (<i>@CshardZ</i>)<br><br>
       &nbsp;&nbsp;&nbsp;&nbsp; ◈ &nbsp;&nbsp;Interested in <b>Python</b> & <b>Web Development</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
       &nbsp;&nbsp;&nbsp;&nbsp; ◈ &nbsp;&nbsp;Currently learning more <b>Python</b><br><br>
       &nbsp;&nbsp;&nbsp;&nbsp; ◈ &nbsp;&nbsp;Looking to collaborate on <b>fun projects</b><br><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; ◈ &nbsp;&nbsp;Working on a <b>Desktop Application</b> project<br><br>
       &nbsp;&nbsp;&nbsp;&nbsp; ◈ &nbsp;&nbsp;Contact email: <i>vivekhubstrt@gmail.com</i><br>
       <br>
     </td>
@@ -24,7 +24,7 @@
 
   <!-- Row 3: LinkedIn & Discord -->
   <tr>
-    <td colspan="5" align="center" style="padding-top: 15px;">
+    <td colspan="6" align="center" style="padding-top: 15px;">
       <br>
       <a href="https://www.linkedin.com/in/vivek-nayak-manuru">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="50"/>
